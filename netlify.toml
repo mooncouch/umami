@@ -4,5 +4,3 @@ included_files = ["node_modules/.geo/**"]
 [[plugins]]
 package = "@netlify/plugin-nextjs"
 
-[[database]]
-url = "postgres://ubptj9sj06bs51:p7112281ba2ac822c98d56d1d418ce27647dc4e1f3e5ec842bd0e4a6406cb7fd8@ceu9lmqblp8t3q.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com:5432/dt4pv9frk9796"
